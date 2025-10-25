@@ -1,6 +1,6 @@
 import streamlit as st
 # Título de la aplicación
-st.title('Sumadora de dos numeros' )
+st.title('Sumadora de dos numeros Patricio' )
 
 # Obtener el primer número del usuario
 numero1 = st.number_input('Ingresa el primer numero', value=0)
